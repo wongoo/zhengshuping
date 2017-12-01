@@ -2,7 +2,7 @@
 layout: post
 author: 郑述平
 comments: true
-date: 2013-11-1
+date: 2013-11-01
 title: 郑述平生平自述
 categories:
 - 追忆
