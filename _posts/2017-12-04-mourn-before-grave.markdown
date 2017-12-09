@@ -18,7 +18,7 @@ tags:
 
 ![jpg](/media/files/20171204/外公上坟3.jpeg "jpg")
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxODczMg==' frameborder=0 'allowfullscreen'></iframe>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxODczMg==' frameborder=0> </iframe>
 
 {{ page.date | date_to_string }},{{ page.author }}
 
