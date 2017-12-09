@@ -1,0 +1,25 @@
+---
+layout: post
+author: 郑体贤
+comments: true
+date: 2017-10-03
+title: 坐夜
+categories:
+- 追忆
+tags:
+- 追忆
+---
+---
+
+
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxNjc3Mg==' frameborder=0 'allowfullscreen'></iframe>
+
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxNTQ0NA==' frameborder=0 'allowfullscreen'></iframe>
+
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxNzU0OA==' frameborder=0 'allowfullscreen'></iframe>
+
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxODA4OA==' frameborder=0 'allowfullscreen'></iframe>
+
+
+{{ page.date | date_to_string }},{{ page.author }}
+
