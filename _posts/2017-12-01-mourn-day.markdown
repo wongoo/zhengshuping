@@ -12,13 +12,13 @@ tags:
 ---
 
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxNjc3Mg==' frameborder=0> </iframe>
+<iframe height="498" width="510" src="http://player.youku.com/embed/XMzIxNjYxNjc3Mg==" frameborder="0"> </iframe>
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxNTQ0NA==' frameborder=0> </iframe>
+<iframe height="498" width="510" src="http://player.youku.com/embed/XMzIxNjYxNTQ0NA==" frameborder="0"> </iframe>
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxNzU0OA==' frameborder=0> </iframe>
+<iframe height="498" width="510" src="http://player.youku.com/embed/XMzIxNjYxNzU0OA==" frameborder="0"> </iframe>
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxNjYxODA4OA==' frameborder=0> </iframe>
+<iframe height="498" width="510" src="http://player.youku.com/embed/XMzIxNjYxODA4OA==" frameborder="0"> </iframe>
 
 
 {{ page.date | date_to_string }},{{ page.author }}
