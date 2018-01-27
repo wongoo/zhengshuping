@@ -64,8 +64,14 @@ code {
   border: 1px dashed #e0e0e0;
   font-family: Fira Mono, monospace; }
 
-h1, h2 {
-  font-size: 1.4em; }
+h1 {
+  font-size: 1.6em;
+  margin: 5px auto;
+}
+h2 {
+  font-size: 1.4em;
+  margin: 5px auto;
+}
 
 time {
   font-family: Ubuntu, monospace; }
@@ -73,7 +79,7 @@ time {
 header {
   margin: 0 auto;
   text-align: justify;
-  margin: 3em auto; }
+  margin: 0 auto; }
   @media screen and (min-width: 320px) {
     header {
       width: 300px; } }
@@ -83,17 +89,16 @@ header {
   @media screen and (min-width: 414px) {
     header {
       width: 400px; } }
-  @media screen and (min-width: 800px) {
+  @media screen and (min-width: 900px) {
     header {
-      width: 750px; } }
+      width: 98%; } }
   header:after {
     content: '';
     width: 100%;
     display: inline-block; }
   header #header {
     display: inline-block;
-    position: relative;
-    top: 1em; }
+    position: relative; }
     header #header h1 {
       font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; }
       header #header h1 a {
@@ -101,8 +106,7 @@ header {
         display: block; }
   header nav {
     display: inline-block;
-    position: relative;
-    top: 1em; }
+    position: relative;}
     header nav span {
       margin: .5em; }
     header nav a, header nav #header h1 a, header #header h1 nav a, header nav article .title a, article .title header nav a, header nav article .meta .tags a, article .meta .tags header nav a, header nav article .divider a, article .divider header nav a {
@@ -121,9 +125,9 @@ header {
   @media screen and (min-width: 414px) {
     #content {
       width: 400px; } }
-  @media screen and (min-width: 800px) {
+  @media screen and (min-width: 900px) {
     #content {
-      width: 750px; } }
+      width: 900px; } }
   #content .main-listing {
     margin-bottom: 2em; }
 
@@ -216,9 +220,9 @@ footer {
   @media screen and (min-width: 414px) {
     footer {
       width: 400px; } }
-  @media screen and (min-width: 800px) {
+  @media screen and (min-width: 900px) {
     footer {
-      width: 750px; } }
+      width: 900px; } }
   footer a, footer header #header h1 a, header #header h1 footer a, footer article .title a, article .title footer a, footer article .meta .tags a, article .meta .tags footer a, footer article .divider a, article .divider footer a {
     color: #cccccc; }
     footer a:hover, footer header #header h1 a:hover, header #header h1 footer a:hover, footer article .meta .tags a:hover, article .meta .tags footer a:hover {
@@ -240,5 +244,20 @@ footer {
     color: #dd1144; }
   .like-wrapper .like-button.liked:hover {
     color: #999; }
-
+/* ---------------------------------- */
+.title {
+    font-size: 36px;
+    line-height: 2em;
+}
+header{
+    width: 100%;
+    background: #000;
+    line-height: 20px;
+    padding: 2px 10px;
+    height: 20px;
+}
+header #header h1{
+    font-size:16px;
+    margin:0;
+}
 /*# sourceMappingURL=style.css.map */
